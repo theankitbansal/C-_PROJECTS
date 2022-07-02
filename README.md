@@ -49,3 +49,25 @@ This project is a mammoth in itself, helping boost one’s resume beyond belief.
 If you need to get a quick project into your resume that not only looks good but helps boost your fundamentals of data structures, then this is the way to go. All you need to do is implement the functionality to add, update, or delete data from the address book. The project will require some knowledge of data structures as well as how to manipulate and work with them.
 
 If stuff seems a bit too easy, connect the project to a database in the background for storing details there. Connecting and updating the database with every operation performed on the front end will be a challenge for a beginner.
+
+10) Search Engine
+If you need to take things up a notch, then this is the way to go. Building a project like this would require some external research before one can proceed. Several C++ frameworks can assist with this, but learning their correct formats from their documents will take some time. This also requires a lot of networking knowledge – including how to extract data from the Internet and display it.
+
+It should be noted that this project should only be attempted once one has some level of mastery over the various concepts of C++. It might be slightly complicated by nature, but building something like this is going to help in getting that ideal internship or job for breaking into the world of computer science.
+
+11) Billing System
+Utilities that incur a fixed cost, such as water and electric bills, tend to follow a set monthly billing cycle. One way to avoid the hassle of lost or delayed bills is through the creation of an e-billing system that can sync e-wallets or banking accounts with those of recipients.
+
+Here, you can rely on C++ to come up with a source code for the billing system which will automatically generate the bills, process them into our billing system and the user will be notified about the due dates for payments. They can make auto-debit payments or choose to make manual payments through that application. 
+
+12) Pacman Game
+The Pacman Game in C++ is a simple console application designed to provide entertainment. The Pacman Game, also known as “The Maze Game,” makes use of a predefined blue path in which the Pacman-like character should be driven so that it erases the path. As one drives the Pacman along the path, more and more of it disappears; this causes a larger score, which means the game is easy to play.
+
+The basic idea of developing this project is to create the header file which includes the source code to control the motion and direction of the Pacman as well as the path. Developing a project like the Pacman game helps you to clear the concepts on C++ file handling and the combination of multiple files in a single project. Later, to make your project complex and effective, you can include the rich GUI and graphics to your game and take your project to next level.
+
+13) Traffic Management System
+In a developing country like ours, where cities are crowded with vehicles and pedestrians, controlling the traffic can be challenging. By using sensors to automate signals with speed limits and additional safety features, we can make our roads safer and more efficient.
+
+Additionally, this system will spare the traffic controllers from the pain of heat and sunlight between all those noises for managing the rowdy din. The projects include the controlling commands which will respond remotely depending on the traffic on the roadways. Moreover, the C++ database will enable one to code and connect the necessary hardware that is needed for an embedded device. 
+
+So, these are the best C++ project ideas for beginners to build and practice their new coding skills.
